@@ -285,7 +285,7 @@ A **multi-level cross-analysis** of **gender**, **age**, **product preferences**
 ![alt text](assets/search_behavior.png)
 
 *Insights*:
-- Base on consumer search habits, most users tend to search using **product categories and keywords**, accounting for **37.04%**and **35.55%** respectively.
+- Base on consumer search habits, most users tend to search using **product categories and keywords**, accounting for **37.04%** and **35.55%** respectively.
 - **Recommendation**: Amazon sellers should **optimize their strategies around product categories and relevant keywords**.
 
 ### 5.2 During Purchase
