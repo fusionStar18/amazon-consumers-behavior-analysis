@@ -263,9 +263,10 @@ df_filtered.to_csv("Shopping_Behavior.csv", index=False, encoding='utf-8')
 - A large portion of consumers shop **few times a month**, making up **one-third** of the total user.
 
 A **multi-level cross-analysis** of **gender**, **age**, **product preferences**, and **shopping frequency** reveals the following:
+
 ![alt text](assets/consumer_behavior_female1.png)
 
-- •	**Female**, **21-25** years old, shops **few times a month**: tends to favor **beauty & personal care**.
+- **Female**, **21-25** years old, shops **few times a month**: tends to favor **beauty & personal care**.
 
 ![alt text](assets/consumer_behavior_female2.png)
 
